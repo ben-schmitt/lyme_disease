@@ -1,3 +1,3 @@
-# lyme
+# Visualization of Lyme Disease Cases in Humans
 
 This repository contains a jupyter notebook that demonstrates how to make choropleth maps with python and the visualization library Altair. For this tutorial I decided to use a map to explore changes in Lyme disease occurrence over time. The CDC collects and publishes data on Lyme disease cases in the United States. The data is reported in various ways. I choose to look at cases per county aggregated over several year periods. The incidence of Lyme is related to the abundance of certain species of ticks, which varies from year to year. Looking at human cases of Lyme disease summed over several years helps to understand the overall trends in cases by reducing the signal caused by fluctuations in tick abundance. (The data set I used is available here: https://data.cdc.gov/browse?q=LymeDisease_9211_county&sortBy=relevance).
